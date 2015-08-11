@@ -115,7 +115,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Cat Chen|[陈广琛](http://catchen.biz/home.zh-CN.html)|[@CatChen](http://weibo.com/u/1640352230)|[@CatChen](https://github.com/CatChen)|[@CatChen](https://twitter.com/CatChen)|Facebook |大牛|
 |BYVod|[Beyond the Void](https://www.byvoid.com/)|[@BYVoid](http://weibo.com/byvoid)|[@byvoid](https://github.com/BYVoid)|[@BYVoid](https://twitter.com/byvoid)|Facebook 英国|《Node.js 开发指南》作者,大牛|
 |郭宇|[Einmal ist keinmal](http://blog.guoyu.me/)|[@郭宇](http://weibo.com/137601206)|[@turingou](https://github.com/turingou)|[@turingou](https://twitter.com/turingou)|糗事百科,原支付宝|Node.js|
-|勾三股四|#|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
+|勾三股四|[勾三股四博客](http://jiongks.name/)|[@勾三股四](http://weibo.com/mx006)|#|#|淘宝|#|
 |cnberg|[冰山一角](http://cnberg.com)|[@berg](http://weibo.com/berg)|@cnberg|[@cnberg]()| 百度| 骑行|
 |大猫| [意淫笔记](http://bigc.at)|[@daemao](http://weibo.com/daemao)|[@Damao](https://github.com/Damao)|[@13igcat](https://twitter.com/13igcat)|腾讯 |[知乎](http://www.zhihu.com/people/13igcat)|
 | hzlzh |[自力博客](https://zlz.im)|[@hzlzh](http://weibo.com/hzlzh)|[@hzlzh](http://github.com/hzlzh)|[@hzlzh](http://twitter.com/hzlzh)| 腾讯|前端开发|
